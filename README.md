@@ -18,7 +18,7 @@ The camera used was the https://coptonix.com/products/usb-line-camera-8m/
 ![](https://coptonix.com/wp-content/uploads/2020/02/header1.png)
 
 GUI operation
-![[GUI download.png]]
+![GUI download.png]
 
 Doing some optical simulation
 ![[Pasted image 20260504184106.png]]
